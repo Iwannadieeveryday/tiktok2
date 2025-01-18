@@ -11,10 +11,10 @@
   right: 0;
   z-index: 100;
 
-  background-color: white;
+  background-color: black;
   border-bottom-width: 1px;
   border-bottom-style: solid;
-  border-bottom-color: rgb(228, 228, 228);
+  border-bottom-color: rgb(0, 0, 0);
 }
 
 .left-section {
@@ -46,7 +46,7 @@
   height: 36px;
   padding-left: 10px;
   font-size: 16px;
-  border: 1px solid rgb(192, 192, 192);
+  border: 1px solid rgb(0, 0, 0);
   border-radius: 2px;
   box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.05);
   width: 0;
@@ -59,7 +59,7 @@
 .search-button {
   height: 40px;
   width: 66px;
-  background-color: rgb(240, 240, 240);
+  background-color: rgb(0, 0, 0);
   border-width: 1px;
   border-style: solid;
   border-color: rgb(192, 192, 192);
@@ -110,7 +110,7 @@
   width: 40px;
   border-radius: 20px;
   border: none;
-  background-color: rgb(245, 245, 245);
+  background-color: rgb(0, 0, 0);
 }
 
 .voice-search-icon {
@@ -146,7 +146,7 @@
   position: absolute;
   top: -2px;
   right: -5px;
-  background-color: rgb(200, 0, 0);
+  background-color: rgb(0, 0, 0);
   color: white;
   font-size: 11px;
   padding-left: 5px;
@@ -180,7 +180,7 @@
 .notifications-icon-container .tooltip {
   font-family: Roboto, Arial;
   position: absolute;
-  background-color: gray;
+  background-color: black;
   color: white;
   padding-top: 4px;
   padding-bottom: 4px;
